@@ -1,0 +1,57 @@
+{
+  "prayer_name": "Maghrib",
+  "rakaat_done": 1,
+  "target": 3,
+  "completed": false,
+  "duration": "01:56",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 1.04
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "RUKU",
+      "rakaat": 0,
+      "time": 40.31
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 41.43
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 0,
+      "time": 48.93
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "TASHAHHUD",
+      "rakaat": 0,
+      "time": 49.87
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 0,
+      "time": 55.34
+    },
+    {
+      "event": "RAKAAT_COMPLETE",
+      "posture": "SUJUD",
+      "rakaat": 1,
+      "time": 55.34
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 1,
+      "time": 62.33
+    }
+  ]
+}

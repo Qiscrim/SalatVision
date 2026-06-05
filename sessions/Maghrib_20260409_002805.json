@@ -1,0 +1,33 @@
+{
+  "prayer_name": "Maghrib",
+  "rakaat_done": 0,
+  "target": 3,
+  "completed": false,
+  "duration": "00:45",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 14.32
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "RUKU",
+      "rakaat": 0,
+      "time": 23.86
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 30.57
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 0,
+      "time": 41.3
+    }
+  ]
+}

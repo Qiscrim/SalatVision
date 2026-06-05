@@ -1,0 +1,39 @@
+{
+  "prayer_name": "Zuhr",
+  "rakaat_done": 0,
+  "target": 4,
+  "completed": false,
+  "duration": "05:43",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 14.65
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "RUKU",
+      "rakaat": 0,
+      "time": 50.81
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 54.15
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 0,
+      "time": 59.84
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "TASHAHHUD",
+      "rakaat": 0,
+      "time": 65.24
+    }
+  ]
+}

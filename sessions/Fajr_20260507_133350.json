@@ -1,0 +1,81 @@
+{
+  "prayer_name": "Fajr",
+  "rakaat_done": 1,
+  "target": 2,
+  "completed": false,
+  "duration": "03:05",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 7.29
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "RUKU",
+      "rakaat": 0,
+      "time": 14.14
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 17.29
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 0,
+      "time": 27.96
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "TASHAHHUD",
+      "rakaat": 0,
+      "time": 28.77
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 0,
+      "time": 39.53
+    },
+    {
+      "event": "RAKAAT_COMPLETE",
+      "posture": "SUJUD",
+      "rakaat": 1,
+      "time": 39.53
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 1,
+      "time": 42.46
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "RUKU",
+      "rakaat": 1,
+      "time": 98.73
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 1,
+      "time": 103.68
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 1,
+      "time": 119.11
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "TASHAHHUD",
+      "rakaat": 1,
+      "time": 179.35
+    }
+  ]
+}

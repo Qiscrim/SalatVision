@@ -1,0 +1,8741 @@
+{
+  "prayer_name": "Fajr",
+  "rakaat_done": 2,
+  "target": 2,
+  "completed": true,
+  "duration": "01:50",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 1.97
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "RUKU",
+      "rakaat": 0,
+      "time": 10.41
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 13.02
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 0,
+      "time": 18.78
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "TASHAHHUD",
+      "rakaat": 0,
+      "time": 24.79
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 0,
+      "time": 27.24
+    },
+    {
+      "event": "RAKAAT_COMPLETE",
+      "posture": "SUJUD",
+      "rakaat": 1,
+      "time": 27.24
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 1,
+      "time": 32.5
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "RUKU",
+      "rakaat": 1,
+      "time": 42.74
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 1,
+      "time": 44.6
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 1,
+      "time": 51.0
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "TASHAHHUD",
+      "rakaat": 1,
+      "time": 53.94
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "SUJUD",
+      "rakaat": 1,
+      "time": 60.53
+    },
+    {
+      "event": "RAKAAT_COMPLETE",
+      "posture": "SUJUD",
+      "rakaat": 2,
+      "time": 60.53
+    },
+    {
+      "event": "PRAYER_COMPLETE",
+      "posture": "SUJUD",
+      "rakaat": 2,
+      "time": 60.53
+    }
+  ],
+  "frame_log": [
+    {
+      "time": 1.36,
+      "predicted": "UNKNOWN"
+    },
+    {
+      "time": 1.4,
+      "predicted": "UNKNOWN"
+    },
+    {
+      "time": 1.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 1.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 2.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.34,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 3.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 4.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 5.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 6.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 7.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 8.68,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 8.73,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 8.78,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 8.83,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 8.88,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 8.92,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 8.97,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.01,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.06,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.11,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.16,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.2,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.25,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.3,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 9.35,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 9.39,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 9.44,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 9.49,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 9.54,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 9.58,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 9.63,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 9.68,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 9.72,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 9.77,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 9.82,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 9.87,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.92,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 9.97,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.02,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.07,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.12,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.17,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.22,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.27,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.32,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.36,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.41,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.46,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.51,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.57,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.62,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.66,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.71,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.76,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.81,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.85,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.9,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 10.95,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.0,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.05,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.1,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.14,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.19,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.24,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.28,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.33,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.39,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.43,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.48,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.53,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.58,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.62,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.67,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.72,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.76,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.81,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.86,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.91,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 11.95,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.0,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.05,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.1,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.15,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.2,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.25,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.3,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.35,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 12.39,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 12.44,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 12.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 12.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 13.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 14.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.34,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 15.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 16.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.71,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 17.76,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 17.81,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 17.87,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 17.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 17.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 18.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 18.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 18.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 18.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 18.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 18.27,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.32,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 18.37,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.52,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.58,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.63,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.68,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.73,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.78,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.83,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.88,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.93,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 18.97,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.02,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.07,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.13,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.19,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.24,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.28,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.34,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.39,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.44,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.49,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.54,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.59,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.64,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.69,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.74,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.79,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.85,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.9,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.95,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 19.99,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.04,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.09,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.14,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.2,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.25,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.3,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.35,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.4,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.45,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.5,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.56,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.61,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.66,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.72,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.76,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.81,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.86,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.91,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 20.96,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.01,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.06,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.11,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.16,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.21,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.26,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.31,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.36,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.41,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.46,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.52,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.57,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.62,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.67,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.72,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.78,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.83,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.88,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.93,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 21.98,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.03,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.08,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.13,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.19,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.24,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.29,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.34,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.39,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 22.45,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 22.57,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 22.62,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 22.67,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 22.72,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 22.77,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 22.83,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 22.88,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 22.93,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 22.98,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 23.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 23.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 24.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 24.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 24.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 24.15,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 24.2,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 24.25,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.3,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.35,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.4,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.44,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.49,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.54,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.59,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.63,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.69,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.74,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.79,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.84,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.89,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.93,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 24.98,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.03,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.09,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.14,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.18,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.23,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.28,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.33,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.38,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.44,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.49,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.53,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.58,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.63,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.68,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.72,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.77,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.82,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.86,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.91,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 25.96,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 26.01,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 26.1,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 26.16,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 26.2,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 26.25,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 26.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 26.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 26.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 26.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 26.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 26.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 26.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 26.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 26.7,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 26.75,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 26.8,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 26.85,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 26.9,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 26.95,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 27.0,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 27.05,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 27.1,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 27.14,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 27.19,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 27.24,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 27.29,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 28.82,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 28.87,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 28.92,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 28.97,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.02,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.21,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.34,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.38,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.44,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.49,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.54,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.59,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.64,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.76,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.81,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.86,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.92,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 29.96,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 30.01,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 30.05,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 30.1,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 30.15,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.2,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.25,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.3,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.35,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.39,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.45,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.49,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.54,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.59,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.64,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.69,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.73,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.78,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.83,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.87,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.92,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 30.96,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.01,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.06,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.1,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.15,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.2,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.25,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.3,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.34,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.39,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.44,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.49,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.53,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.59,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.64,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.68,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.73,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.78,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.83,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 31.88,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 31.93,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 31.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 32.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 33.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 34.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.34,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 35.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 36.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 37.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 38.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 39.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 40.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 41.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 42.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 42.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 42.14,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 42.19,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 42.24,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.28,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.33,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.38,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.42,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.47,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.52,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.57,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.61,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.65,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.7,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.74,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.79,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.83,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.87,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.92,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 42.96,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.01,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.05,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.1,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.14,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.18,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.23,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.27,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.32,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.36,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.4,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.45,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.49,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.54,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.59,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.63,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.68,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.72,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.76,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.81,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.85,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.89,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 43.94,
+      "predicted": "RUKU"
+    },
+    {
+      "time": 44.0,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 44.05,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 44.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 44.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.27,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 45.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.27,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 46.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 47.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 48.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 49.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 49.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 49.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 49.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 49.21,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 49.26,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 49.31,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.35,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.4,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.44,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.49,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.53,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.58,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.62,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.66,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 49.71,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 49.76,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 49.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 49.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 49.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 49.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.27,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 50.46,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 50.52,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 50.57,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 50.61,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 50.67,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 50.71,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 50.91,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 50.96,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.0,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.05,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.1,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.15,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.21,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.25,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.3,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.35,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.4,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.45,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.51,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.56,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.6,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.65,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.7,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.75,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.8,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.85,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.9,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 51.95,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.0,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.05,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.1,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.14,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.19,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.24,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.29,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.33,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.38,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.42,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.46,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.51,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.56,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.61,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.68,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.73,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.77,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.82,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.86,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.91,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 52.95,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 53.0,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 53.04,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 53.09,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 53.13,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 53.18,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 53.28,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 53.33,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 53.37,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 53.42,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.46,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.51,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.55,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.59,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.64,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.68,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.72,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.77,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.81,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.85,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.9,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.94,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 53.99,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.03,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.08,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.12,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.16,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.21,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.25,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.3,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.34,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.39,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.43,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.48,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.53,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.57,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.61,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.66,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.7,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.75,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.8,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.84,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.89,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.93,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 54.97,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.02,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.06,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.11,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.16,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.21,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.25,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.3,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.34,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.38,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.43,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.48,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.52,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.57,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.62,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.66,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.7,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.75,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.79,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.84,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.89,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.93,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 55.97,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.02,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.07,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.11,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.15,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.2,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.24,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.29,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.33,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.38,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.42,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.46,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.51,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.55,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.6,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.64,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.68,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.73,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.77,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.82,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.86,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.91,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 56.95,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.0,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.04,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.08,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.13,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.17,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.22,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.26,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.31,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.35,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.4,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.45,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.5,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.55,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.61,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.66,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.71,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.76,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.82,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.87,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.92,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 57.97,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.02,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.08,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.14,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.19,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.24,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.29,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.35,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.4,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.45,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.5,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.55,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 58.6,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 59.66,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 59.71,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 59.76,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 59.81,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 59.86,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 59.9,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 59.94,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 59.99,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.03,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.08,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.12,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.17,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.21,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.26,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.3,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.35,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.39,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.44,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.48,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.53,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.58,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.62,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.67,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.72,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.77,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.81,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.86,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.91,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 60.96,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 61.01,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 61.05,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 61.1,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 61.15,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 61.19,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 61.24,
+      "predicted": "SUJUD"
+    },
+    {
+      "time": 61.29,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 61.4,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 61.44,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 61.49,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.54,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.58,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.63,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.68,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.73,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.78,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.83,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.87,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.92,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 61.97,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.02,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.07,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.12,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.17,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.21,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.26,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.31,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.35,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.4,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.45,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.49,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.54,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.59,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.63,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.68,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.72,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.77,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.82,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.87,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.91,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 62.96,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.0,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.05,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.1,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.14,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.19,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.23,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.28,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.33,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.38,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.42,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.47,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.51,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.56,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.61,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.65,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.7,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.75,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.79,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.84,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.89,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 63.95,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.01,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.06,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.11,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.16,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.21,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.27,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.32,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.37,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.43,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.48,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.54,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.59,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.66,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.71,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.77,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.82,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.87,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.92,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 64.97,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.03,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.08,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.12,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.18,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.22,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.27,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.32,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.37,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.42,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.48,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.54,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.61,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.67,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.72,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.77,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.83,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.88,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.93,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 65.97,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 66.02,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 66.08,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 66.12,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 66.19,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 66.26,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 66.32,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 66.39,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 66.47,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 66.54,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 66.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 66.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 66.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 66.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 66.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 66.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 67.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 70.14,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 70.18,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 73.19,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 73.23,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 73.28,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 73.32,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 73.36,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 73.4,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 73.44,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 73.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 73.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 73.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 73.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 73.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 73.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 73.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 73.79,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 73.83,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 73.88,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 73.92,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 73.96,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 74.01,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 74.06,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 74.11,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 74.17,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 74.22,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 74.27,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 74.32,
+      "predicted": "TASHAHHUD"
+    },
+    {
+      "time": 74.37,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 74.42,
+      "predicted": "TRANSITION"
+    },
+    {
+      "time": 74.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 74.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 75.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 76.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 77.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 78.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 79.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 80.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 81.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 82.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 83.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 84.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 85.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 86.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 87.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 88.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.27,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 89.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 90.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.34,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 91.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.27,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 92.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.34,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 93.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.27,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 94.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.19,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.65,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.69,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 95.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 96.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 97.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 98.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.34,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 99.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.42,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 100.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.61,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 101.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.82,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.86,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 102.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.32,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.92,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 103.96,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.0,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.13,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.17,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.21,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.25,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.38,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 104.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.02,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.23,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.27,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.36,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.4,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.44,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.52,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.56,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 105.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.06,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.15,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.28,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.45,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.49,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.58,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.89,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 106.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.1,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.27,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.31,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.35,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.48,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.53,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.57,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.62,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.66,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.7,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.74,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.78,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.83,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.87,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.91,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.95,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 107.99,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.04,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.08,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.12,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.72,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.76,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.8,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.84,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.88,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.93,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 108.97,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.01,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.05,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.09,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.14,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.18,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.22,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.26,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.3,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.34,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.39,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.43,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.47,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.51,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.55,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.6,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.64,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.68,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.73,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.77,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.81,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.85,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.9,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.94,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 109.98,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.03,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.07,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.11,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.16,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.2,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.24,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.29,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.33,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.37,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.41,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.46,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.5,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.54,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.59,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.63,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.67,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.71,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.75,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.79,
+      "predicted": "QIYAM"
+    },
+    {
+      "time": 110.84,
+      "predicted": "QIYAM"
+    }
+  ]
+}

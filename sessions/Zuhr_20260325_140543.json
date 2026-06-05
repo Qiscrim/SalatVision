@@ -1,0 +1,15 @@
+{
+  "prayer_name": "Zuhr",
+  "rakaat_done": 0,
+  "target": 4,
+  "completed": false,
+  "duration": "08:10",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 1.02
+    }
+  ]
+}

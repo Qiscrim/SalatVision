@@ -1,0 +1,15 @@
+{
+  "prayer_name": "Fajr",
+  "rakaat_done": 0,
+  "target": 2,
+  "completed": false,
+  "duration": "02:08",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 112.17
+    }
+  ]
+}

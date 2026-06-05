@@ -1,0 +1,27 @@
+{
+  "prayer_name": "Asr",
+  "rakaat_done": 0,
+  "target": 4,
+  "completed": false,
+  "duration": "02:07",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 70.28
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "RUKU",
+      "rakaat": 0,
+      "time": 94.73
+    },
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 95.82
+    }
+  ]
+}

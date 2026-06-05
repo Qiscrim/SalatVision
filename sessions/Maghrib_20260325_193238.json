@@ -1,0 +1,15 @@
+{
+  "prayer_name": "Maghrib",
+  "rakaat_done": 0,
+  "target": 3,
+  "completed": false,
+  "duration": "01:24",
+  "log": [
+    {
+      "event": "POSTURE_CONFIRMED",
+      "posture": "QIYAM",
+      "rakaat": 0,
+      "time": 16.26
+    }
+  ]
+}
